@@ -1,0 +1,9 @@
+/data/app.sqlite
+/data/app.key
+/storage/videos/*
+!/storage/videos/.gitkeep
+/storage/renders/*
+!/storage/renders/.gitkeep
+/storage/logs/*
+!/storage/logs/.gitkeep
+!/storage/logs/.htaccess
